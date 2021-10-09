@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/login.css" />
+    <link rel="stylesheet" href="css/utilities.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <title>Sangnet | Log In</title>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#header").load("header.html"); 
+  $("#footer").load("footer.html"); 
+});
+</script> 
+  </head>
+
+  <body>
+    <div id="header"></div>
+    <div class="container">
+      <section id="contact" class="contact flex-columns">
+        <div class="row">
+          <div class="column">
+            <div class="column-1">
+              <img src="images/login.png" id="img-01" alt="People" />
+            </div>
+          </div>
+          <div class="column">
+            <div class="column-2">
+              <h2>Welcome Back!</h2>
+              <form action="" class="callback-form" autocomplete="off">
+                <div class="form-control">
+                  <input
+                    type="email"
+                    name="email"
+                    id="email"
+                    placeholder="Enter your E-mail"
+                  />
+                </div>
+                <div class="form-control">
+                  <input
+                    type="password"
+                    name="password"
+                    id="password"
+                    placeholder="Enter your password"
+                  />
+                </div>
+                <input type="submit" value="Log In" class="btn" />
+              </form>
+              <h4><a href="#">Forgot your password?</a></h4>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>

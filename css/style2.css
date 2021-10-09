@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500&display=swap');
+*{
+    margin: 0;
+    border: 0;
+}
+.heading {
+    display: inline-block;
+    margin-left: 565px;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top:80vh;
+    left:5vw;
+    font-stretch: expanded;
+}
+#trust{
+    position: relative;
+    top:105vh;
+    display: inline-block;
+}
+
+.headingbody {
+    display: inline-block;
+    margin-left: 509px;
+    padding: 9px;   
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top:80vh;
+    left:5vw;
+}
+#servicebody1{
+    position: relative;
+    top: 122px;
+    left: 441px;
+}
+#servicebody2{
+    position: relative;
+    left: 649px;
+    top: 106px;
+}
+#servicebody3{
+    position: relative;
+    left: 931px;
+    top: 88px;
+}
+
+.trustheading {
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid red;
+}
+#Heading1{
+    position: relative;
+    top: 335px;
+    right: 647px;
+}
+#Heading2{
+    position: relative;
+    top: 335px;
+    right: 455px;
+}
+#Heading3{
+    position: relative;
+    top: 335px;
+    right: 208px;
+}
+.trustbody {
+    padding: 5px;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid red;
+}
+#trustbody1{
+    position: relative;
+    top: 430px;
+    right: 538px;
+}
+#trustbody2{
+    position: relative;
+    top: 430px;
+    right: 538px;
+}
+#trustbody3{
+    position: relative;
+    top: 430px;
+    right: 538px;
+}
+.premium {
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid red;
+}
+.premiumbody{
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid red;
+}

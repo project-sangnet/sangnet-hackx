@@ -1,0 +1,116 @@
+<html>
+    <head>
+        <title>Sangnet</title>
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style2.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+        <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#header").load("header.html"); 
+  $("#footer").load("footer.html"); 
+});
+</script> 
+    </head>
+    <body>
+        <div id="header"></div>
+        <div id="heading"><b><h1 id="heading_text">Search for Blood</h1></b>
+           <p> <b><h1 id="heading_text"> ends here!</h1></b></p>
+        </div>
+        <div class="landing_form">
+            <form autocomplete="off" class="form1">
+               <img src="images/location-svgrepo-com_1.svg" id="logo1"> <input type="text" name="location" placeholder="Enter Your Location">
+               <img src="images/blood-svgrepo-com.svg" id="logo2"><input type="text" name="blood" placeholder="Enter blood group">
+               
+                <input value="Search" class="button" id="search_btn"> 
+                <input type="submit" value="Sign up" class="button" id="sup_btn">
+            </form>
+        </div>
+        <div class="headerImage"><img src="images/header_image.jpg" id="header_image"></div>
+        <div class="aboutImage"><img src="images/About Us_image.jpg" id="about_image"></div>
+        <div class="about_text">
+            <b><h1 id="abouttext">About Us!</h1></b>
+            <h3 id="about">We decided to develop a software application so people can get their needed amount of blood in their feasible time with ease and we call it SANGNET. It is an idea of connecting people. The word SANGNET has come from the Latin word ‘Sanguis’, which means blood and the English word ‘Network’, thus ‘Sang-Net.</h3>
+            <input type="submit" value="Read More" class="button" id="sup_btn">
+        </div>
+        <div class="heading" id="service">
+            <h1>Services We Provide</h1>
+        </div>
+        <div class="headingbody">
+            Lorem Ipsum Is Simply Dummy Text Of The Printing
+        </div>
+        <div class="iconpack">
+           <div id="icon1"><img src="images/service 01.svg" id="icn1">
+            <h3 id="icon1text">Live Tracking</h3>
+        </div>
+           <div id="icon2"><img src="images/service 02.svg" id="icn1">
+            <h3 id="icon1text">Connecting Blood Banks</h3>
+        </div>
+           <div id="icon3"><img src="images/service 03.svg" id="icn2">
+            <h3 id="icon1text">Ambulance Service</h3>
+        </div>
+        </div>
+        <div class="heading" id="trust">
+            <h1>Why Trust Sangnet?</h1>
+            <img src="images/underline.png" id="underline">
+        </div>
+        <div class="whyTrust">
+            <div class="whyTrust1">
+                <img src="images/hastlefree.jpg" id="hfree">
+                <h2>Hastle Free</h2><br>
+                <h4> No more roaming around for blood units . From live donor to blood banks  now get all of them in one platform . No need to stress for emergency blood requirements. 
+                    </h4>
+            </div>
+            <div class="whyTrust2">
+                <img src="images/fearlessdonation.jpg" id="hfree">
+                <h2>Fearless Donation</h2><br>
+                <h4> You can now donate blood through us without any fear and help saving others life in some easy steps. Our app will guide you through the donation process as well.
+                    </h4>
+            </div>
+            <div class="whyTrust3">
+                <img src="images/ambulance.jpg" id="hfree">
+                <h2>One tap ambulance</h2><br>
+                <h4>  We will provide you the ambulance service within time with live tracing feature in one tap so you don’t need to stress about it and can take care of your loved once.
+                    </h4>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="part1"><img src="images/logo_white.png" id="footerImage"></div>
+            <h3 id="footerText">Subscribe to our Mailing list!</h3>
+            <input type="text" placeholder="Enter Email" id="footerbox">
+            <input type="submit" value="Join" class="button" id="footerbox2">
+            <div class="part2">
+                <h3 id="footerTextHeading1">Quick Link</h3>
+                <ul>
+                    <li>Home</li>
+                    <li>About Us</li>
+                    <li>Services</li>
+                    <li>Get App</li>
+                </ul>
+            </div>
+            <div class="part3">
+                <h3 id="footerTextHeading1">Company</h3>
+                <ul>
+                    <li>Privacy Policy</li>
+                    <li>Terms & Conditions</li>
+                    <li>Refund Policy</li>
+                </ul>
+            </div>
+            <div class="part4">
+                <h3 id="footerTextHeading1">Contact</h3>
+                <ul>
+                    <li>Phone:</li>
+                    <li>E-mail:</li>
+                    <li>Location:</li>
+                </ul>
+            </div>
+        </div>
+       
+    </body>
+</html>

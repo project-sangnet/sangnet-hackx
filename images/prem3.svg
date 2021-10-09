@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.069" height="98.146" viewBox="0 0 103.069 98.146">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#face00"/>
+      <stop offset="1" stop-color="#f68600"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.044" x2="0.5" y2="0.935" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.036" x2="0.5" y2="0.171" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.01" x2="1.006" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="reward_cup" data-name="reward cup" transform="translate(-867.844 -408.541)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="9.161" height="36.524" transform="translate(914.624 454.502)" fill="url(#linear-gradient)"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(901.571 487.788)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Rectangle_3" data-name="Rectangle 3" d="M1.746,0H33.52a1.748,1.748,0,0,1,1.748,1.748V8.669a1.747,1.747,0,0,1-1.747,1.747H1.748A1.748,1.748,0,0,1,0,8.668V1.746A1.746,1.746,0,0,1,1.746,0Z" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M911.342,424.546v-6.894H868.435v.1a57.19,57.19,0,0,0-.591,6.884,39.636,39.636,0,0,0,11.038,27.642c5.585,5.712,10.233,8.939,14.765,10.68L889.6,451c-6.907-3.158-15.04-13.858-14.913-26.35v-.1Z" transform="translate(0 0.424)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_2" data-name="Path 2" d="M924.763,424.546v-6.894H967.67v.1a57.22,57.22,0,0,1,.594,6.884,39.635,39.635,0,0,1-11.041,27.641c-5.584,5.712-10.233,8.939-14.765,10.68L946.506,451c6.907-3.158,15.038-13.858,14.91-26.35v-.1Z" transform="translate(2.647 0.424)" fill="url(#linear-gradient-3)"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(885.258 418.076)" opacity="0.15">
+      <path id="Path_3" data-name="Path 3" d="M884.484,417.652v6.894h26.084v-6.894Zm0,30.476v.17h.024a31.245,31.245,0,0,0,.753,5.708,30.916,30.916,0,0,0,2.065,6.08,29.934,29.934,0,0,0,5.547,2.871L888.83,451a18.762,18.762,0,0,1-4.346-2.876Z" transform="translate(-884.484 -417.652)" fill="#1a1b1e"/>
+      <path id="Path_4" data-name="Path 4" d="M924.763,417.652v6.894h25.758v-6.894Zm17.694,45.3a29.321,29.321,0,0,0,5.079-2.568,30.909,30.909,0,0,0,2.488-7.752,31.388,31.388,0,0,0,.466-4.2A18.509,18.509,0,0,1,946.505,451Z" transform="translate(-882.611 -417.652)" fill="#1a1b1e"/>
+    </g>
+    <path id="Path_5" data-name="Path 5" d="M886.255,448.424h.025a29.2,29.2,0,0,0,.709,5.4,29.952,29.952,0,0,0,6.769,13.145,32.662,32.662,0,0,0,24.593,10.946,33.9,33.9,0,0,0,3.577-.187A32.09,32.09,0,0,0,947.374,460.4a29.359,29.359,0,0,0,3.057-11.973h.022V408.541h-64.2Z" transform="translate(0.856)" fill="url(#linear-gradient-5)"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(896.329 496.275)">
+      <g id="Group_4" data-name="Group 4">
+        <path id="Path_6" data-name="Path 6" d="M940.82,500.8a2,2,0,0,1-1.988,1.988h-41.78a2,2,0,0,1-1.988-1.988v-6.436a1.988,1.988,0,0,1,1.988-1.988h41.778a1.988,1.988,0,0,1,1.988,1.988Z" transform="translate(-895.063 -492.376)" fill="#555c84"/>
+      </g>
+    </g>
+  </g>
+</svg>

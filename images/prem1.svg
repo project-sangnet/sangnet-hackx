@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="152" viewBox="0 0 152 152">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.431" x2="1.421" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8aa00"/>
+      <stop offset="1" stop-color="#f79600"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.285" y1="0.5" x2="1.585" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9c800"/>
+      <stop offset="1" stop-color="#f68800"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(-361 -4322)">
+    <g id="advertising-speaker-svgrepo-com" transform="translate(363.708 4351.561)">
+      <path id="Path_26" data-name="Path 26" d="M243.032,351.55a1.244,1.244,0,0,0,1.244-1.244v-9.589a1.244,1.244,0,0,0-1.244-1.244h-3.46l2.122,12.077h1.338Z" transform="translate(-167.964 -267.93)" fill="#2f4859"/>
+      <path id="Path_27" data-name="Path 27" d="M161.977,336.853a1.459,1.459,0,0,0,1.437,1.207h15.378a2.813,2.813,0,0,0,2.813-2.813h0a2.813,2.813,0,0,0-2.813-2.813,1.591,1.591,0,0,1-1.567-1.315l-2.289-13.025-2.122-12.077-1.57-8.934H154.988Z" transform="translate(-101.206 -234.474)" fill="#f8b900"/>
+      <path id="Path_28" data-name="Path 28" d="M29.21,161a2.452,2.452,0,0,0-2.452,2.452v14.179a2.452,2.452,0,0,0,2.452,2.452h2.127V161H29.21Z" transform="translate(0 -127.067)" fill="#555c84"/>
+      <path id="Path_29" data-name="Path 29" d="M50.94,142.375a2.452,2.452,0,0,0-2.452,2.452v22.028a2.452,2.452,0,0,0,2.452,2.452h6.731V142.375Z" transform="translate(-17.15 -112.37)" fill="#f7a000"/>
+      <path id="Path_30" data-name="Path 30" d="M92.065,117.941v33.32l7.172,2.478V115.463Z" transform="translate(-51.544 -91.13)" fill="#f8bc00"/>
+      <path id="Path_31" data-name="Path 31" d="M126.1,115.463v38.276h28.022V115.463Z" transform="translate(-78.402 -91.13)" fill="url(#linear-gradient)"/>
+      <path id="Path_32" data-name="Path 32" d="M259.063,39.756V78.032l35.314,20.215V19.541Z" transform="translate(-183.348 -15.423)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_33" data-name="Path 33" d="M430.646,0a4.018,4.018,0,0,0-4.018,4.018V82.924a4.018,4.018,0,0,0,8.037,0V4.018A4.018,4.018,0,0,0,430.646,0Z" transform="translate(-315.599)" fill="#555c84"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(361 4322)" fill="none" stroke="#555c84" stroke-width="9">
+      <circle cx="76" cy="76" r="76" stroke="none"/>
+      <circle cx="76" cy="76" r="71.5" fill="none"/>
+    </g>
+    <line id="Line_10" data-name="Line 10" x2="92" y2="112" transform="translate(390.5 4343.5)" fill="none" stroke="#555c84" stroke-width="9"/>
+  </g>
+</svg>
