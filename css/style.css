@@ -150,7 +150,7 @@ input {
 .part2{
     display: inline;
     position: absolute;
-    left:50vw;
+    left:48vw;
     top:12vh; 
 }
 #footerTextHeading1{
@@ -172,13 +172,13 @@ li{
 .part3{
     display: inline;
     position: absolute;
-    left:65vw;
+    left:63vw;
     top:12vh; 
 }
 .part4{
     display: inline;
     position: absolute;
-    left:80vw;
+    left:78vw;
     top:12vh; 
 }
 .iconpack{
